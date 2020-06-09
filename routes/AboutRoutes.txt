@@ -1,0 +1,21 @@
+Api will be created for users , authentaction ,profile and post
+
+//registration Process
+1. app should be able to sign you up and store the user data in collection on mongoDB
+
+//authentaction Process
+
+2. App should be able to take username and password and verify that the user is same
+3. if user is already registered the app should say user already exists
+
+
+//Create the profile 
+
+4. User should be able to create a profile and should be one per user
+-- application should not allow to create duplicate profiles.
+
+
+// user can post comments 
+
+6. user can create post messages as well as like and unline
+
